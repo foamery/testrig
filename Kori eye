@@ -1,0 +1,8 @@
+body {
+    background-color: #CBE32D;
+}
+
+h1 {
+    color: #005A31;
+    margin-left: 20px;
+}

@@ -1,2 +1,2 @@
-# foamery.github.io
-Hello weary traveler I see you found my personal website you can help out and send pull requests enjoy
+# The answer
+Hello weary traveler I see you found the answer to life and the answer is yours

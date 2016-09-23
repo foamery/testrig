@@ -10,8 +10,7 @@ h1 {
     box-sizing: border-box;
 }
 .main {
-    width: 100%;
-    length: 100%;
+    width: 75%;
     float: left;
     padding: 15px;
 }

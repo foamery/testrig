@@ -9,3 +9,9 @@ h1 {
 * {
     box-sizing: border-box;
 }
+.main {
+    width: 75%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}

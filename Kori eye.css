@@ -6,3 +6,6 @@ h1 {
     color: #005A31;
     margin-left: 20px;
 }
+* {
+    box-sizing: border-box;
+}

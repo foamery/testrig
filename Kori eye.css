@@ -14,3 +14,11 @@ h1 {
     float: left;
     padding: 15px;
 }
+#content {
+  float: right ;
+  width: 80% ;
+}
+#navbar {
+  float: right;
+  width: 20%;
+}
